@@ -27,7 +27,6 @@ phototaxis-pomdp-crn/
 │   ├── 01_Single_Source_POMDP_and_CRN.ipynb
 │   ├── 02_Data_Driven_IRL.ipynb
 │   ├── 03_Benchmarking_and_Plots.ipynb
-│   └── 90_Additional_Multi_Source_and_Flickering_POMDP_and_CRN.ipynb
 ├── outputs/
 │   ├── figures/
 │   ├── trajectories/
@@ -84,16 +83,6 @@ It loads the processed data and checkpoint from `02` and reproduces the paper’
 
 This notebook corresponds to the **main benchmark/results section** of the paper.
 
-### `90_Additional_Multi_Source_and_Flickering_POMDP_and_CRN.ipynb`
-Supplementary / exploratory notebook.
-
-It contains:
-- multi-source observation settings,
-- multi-light trajectory simulations,
-- flickering-light experiments,
-- optional exploratory CRN-ODE extensions.
-
-This notebook is **not part of the main reviewer reproduction path**.
 
 ## Quick start
 
