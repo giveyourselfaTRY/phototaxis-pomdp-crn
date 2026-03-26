@@ -117,7 +117,7 @@ If you want the full paper-aligned notebook structure:
 1. `01_Single_Source_POMDP_and_CRN.ipynb`
 2. `02_Data_Driven_IRL.ipynb`
 3. `03_Benchmarking_and_Plots.ipynb`
-4. `90_Additional_Multi_Source_and_Flickering_POMDP_and_CRN.ipynb`
+
 
 ## Expected artifacts
 
