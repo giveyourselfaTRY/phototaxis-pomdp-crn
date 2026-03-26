@@ -136,11 +136,4 @@ In particular:
 - See `data/README.md` for information on raw versus processed data.
 - See `checkpoints/README.md` for the contents of the exported checkpoint.
 - See `outputs/README.md` for the meaning of generated figures, tables, and trajectory files.
-
-## Citation
-
-If you use this repository, please cite the associated paper. A ready-to-edit citation file is provided in `CITATION.cff`.
-
-## License
-
-A license file is included in this repository. If you want a different license than the draft provided here, update `LICENSE` before final public release.
+ before final public release.
